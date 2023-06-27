@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Does the next line need to be changed? -->
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+    <license isOsiApproved="false" licenseId="ADIBSD" name="ADI BSD">
+        <crossRefs>
+            <!-- Need a place to host the crossRef below -->
+            <crossRef>http://directory.fsf.org/wiki/License:BSD_4Clause</crossRef>
+        </crossRefs>
+        <notes>
+        This license is a customized version of the BSD 4-Clause license that ADI used in the 
+        2010s. The hallmark of this license is the clause requiring the code to be used only on 
+        ADI components. 
+        </notes>
+    <text>
+        <copyrightText>
+            <p>
+            Copyright (c) &lt;year&gt; &lt;owner&gt;. All rights reserved. 
+            </p>
+        </copyrightText>
+
+    <p>
+    Redistribution and use in source and binary forms, with or without modification, are 
+    permitted provided that the following conditions are met:
+    </p>
+
+    <list>
+        <item>
+            <bullet>-</bullet>
+            Redistributions of source code must retain the above copyright notice, this list 
+            of conditions and the following disclaimer.
+        </item>
+        <item>
+            <bullet>-</bullet>
+            Redistributions in binary form must reproduce the above copyright notice, this 
+            list of conditions and the following disclaimer in the documentation and/or other 
+            materials provided with the distribution.
+        </item>
+        <item>
+            <bullet>-</bullet>
+            Neither the name of <alt match=".+" name="copyrightHolder">the copyright 
+            holder</alt> nor the names of its contributors may be used to endorse or promote 
+            products derived from this software without specific prior written permission.
+        </item>
+        <item>
+            <bullet>-</bullet>
+            The use of this software may or may not infringe the patent rights of one or more 
+            patent holders.  This license does not release you from the requirement that you 
+            obtain separate licenses from these patent holders to use this software.
+        </item>
+        <item>
+            <bullet>-</bullet>
+            Use of the software either in source or binary form or filter designs resulting 
+            from the use of this software, must be connected to, run on or loaded to an Analog 
+            Devices Inc. component.
+        </item>
+      </list>
+
+    <p>
+    THIS SOFTWARE IS PROVIDED BY <alt match=".+" name="copyrightHolderAsIs">COPYRIGHT 
+    HOLDER</alt> "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+    NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
+    </p>
+    
+    <p>
+    IN NO EVENT SHALL <alt match=".+" name="copyrightHolderLiability">COPYRIGHT HOLDER</alt> 
+    BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS 
+    OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+    LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR 
+    OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+    POSSIBILITY OF SUCH DAMAGE.
+    </p>
+
+    </text>
+    </license>
+</SPDXLicenseCollection>
